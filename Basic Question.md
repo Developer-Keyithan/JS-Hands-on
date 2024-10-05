@@ -22,7 +22,7 @@
 ```
 
     Output
-    file:///Assets/Screenshot%20from%202024-10-05%2008-28-22.png
+    file:Assets/Screenshot%20from%202024-10-05%2008-28-22.png
 
     
 ```sh
