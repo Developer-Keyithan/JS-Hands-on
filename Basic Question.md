@@ -20,8 +20,9 @@
     name = "Uki"
     console.log(name)
 ```
+
     Output
-file:///Assets/Screenshot%20from%202024-10-05%2008-28-22.png
+    file:///Assets/Screenshot%20from%202024-10-05%2008-28-22.png
 
     
 ```sh
@@ -73,10 +74,10 @@ file:///Assets/Screenshot%20from%202024-10-05%2008-28-22.png
 
 
 ```sh
-let number5 = 6;
-let number6 = 7;
-if (number5 > number6)
-    {console.log(number5 + " is greater than " + number6)}
-else 
-    {console.log(number6 + " is greater than " + number5)}
+    let number5 = 6;
+    let number6 = 7;
+    if (number5 > number6)
+        {console.log(number5 + " is greater than " + number6)}
+    else 
+        {console.log(number6 + " is greater than " + number5)}
 ```
