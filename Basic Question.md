@@ -5,16 +5,25 @@
     console.log(a)
     console.log(b)
 ```
-
+    Output
+    9
+    9
 
 ```sh
     const name = "Keyithan";
     console.log(name)
+``` 
+    Output
+    Keyithan
+
+```sh
     name = "Uki"
     console.log(name)
 ```
+    Output
+file:///Assets/Screenshot%20from%202024-10-05%2008-28-22.png
 
-
+    
 ```sh
     let string = "1234";
     let number1 = Number(string); // This step change string to number
