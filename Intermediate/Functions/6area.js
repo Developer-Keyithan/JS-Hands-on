@@ -4,5 +4,5 @@ function cArea(radius) {
     return area;
 }
 
-let circle = cArea(7);
+let circleArea = cArea(7);
 console.log(circleArea)

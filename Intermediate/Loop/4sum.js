@@ -1,6 +1,6 @@
-let number = 6;
-let sum = 1;
+let number = 3;
+let sum = 0;
 for (var i = 1; i <= number; i++) {
     sum += i;
 }
-console.log(factorial)
+console.log(sum)
